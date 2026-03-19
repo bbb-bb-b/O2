@@ -36,10 +36,6 @@ correctanswer = QLabel('Правильный объект')
 
 vlayout_afteranswer = QVBoxLayout()
 
-# ДОПИСАТЬ! 
-
-# XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 hlayout_options = QHBoxLayout()
 vlayout_options1 = QVBoxLayout()
 vlayout_options2 = QVBoxLayout()
